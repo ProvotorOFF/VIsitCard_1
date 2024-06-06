@@ -55,5 +55,7 @@ npm run dev
 
 ### Контакты
 Если у вас есть вопросы или предложения, пожалуйста, свяжитесь со мной:
+
 **Email:** provotor.an@gmail.com
-**GitHub:** yourusername
+
+**GitHub:** ProvotorOFF
